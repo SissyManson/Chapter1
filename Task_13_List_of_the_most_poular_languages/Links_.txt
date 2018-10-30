@@ -1,0 +1,10 @@
+﻿More information about the chosed languages from Chapter1_Task_13
+
+1. Java vs. C#
+	https://www.educba.com/java-vs-c-sharp/
+
+2. Python vs. C#
+	https://www.netguru.co/blog/python-vs-c-comparison-of-the-programming-language
+
+3. C++ vs. C#
+	https://www.upwork.com/hiring/development/c-sharp-vs-c-plus-plus/
